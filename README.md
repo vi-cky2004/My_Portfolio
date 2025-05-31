@@ -3,7 +3,7 @@ Welcome to my personal portfolio website! This site showcases my work, skills, a
 
 ## 🌐 Live Demo
 
-👉 <a href="https://dinakrushna7077.github.io/Dinakrushna-Portfolio/">Visit My Portfolio</a>
+👉 <a href="[Pranay-Portfolio/](https://vi-cky2004.github.io/My_Portfolio/)">Visit My Portfolio</a>
 
 
 ## ✨ Features
